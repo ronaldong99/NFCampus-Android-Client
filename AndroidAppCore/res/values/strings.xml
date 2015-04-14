@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidAppCore</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="print_launch">LAUNCH</string>
+    <string name="print_automobile_fault_diagnosis_test_report">汽车故障诊断报告</string>
+    <string name="print_test_time">测试时间：</string>
+    <string name="print_success">打印成功！</string>
+    <string name="print_jam">打印机卡纸</string>
+    <string name="print_will_nopaper">打印机即将缺纸</string>
+    <string name="print_no_paper">打印机缺纸</string>
+    <string name="print_actuator_fault">打印机故障</string>
+    <string name="print_head_overheating">打印头过热</string>
+    <string name="print_connect_printer">请先连接Wi-Fi打印机</string>
+
+</resources>
